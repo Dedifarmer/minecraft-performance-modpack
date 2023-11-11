@@ -1,4 +1,4 @@
-the project is in beta 
+the project is in beta.
 it has two versions a vulkan and normal.
 
 normal:
