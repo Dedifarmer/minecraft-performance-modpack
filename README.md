@@ -7,6 +7,7 @@ normal:
   -more compatibility
   -needs more ram
   -stable
+  -shader support
   
 vulkan:
   -small
