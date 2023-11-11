@@ -1,11 +1,13 @@
 the project is in beta 
 it has two versions a vulkan and normal.
+
 normal:
   -large
   -more fps
   -more compatibility
   -needs more ram
   -stable
+  
 vulkan:
   -small
   -lower fps
