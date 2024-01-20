@@ -1,5 +1,5 @@
 the project is in beta.
-it has two versions a vulkan and normal.
+it has three versions a vulkan, normal and bare.
 
 normal:
   -large
@@ -17,3 +17,10 @@ vulkan:
   -only runs on windows10/11
   -needs a compatible gpu
   -somtimes unstable
+
+bare:
+  -running on minecrafts default renderer
+  -smallest
+  -the most stable
+  -capable to run on a server
+  
