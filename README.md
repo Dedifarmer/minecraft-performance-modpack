@@ -23,4 +23,7 @@ bare:
   -smallest
   -the most stable
   -capable to run on a server
+
+know issues:
+  -opengl version crasing with rivatuner/msi afterburner  
   
