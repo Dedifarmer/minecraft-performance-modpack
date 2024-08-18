@@ -1,4 +1,3 @@
-the project is in beta.
 it has three versions a vulkan, normal and bare.
 
 normal:
